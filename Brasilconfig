@@ -13,7 +13,7 @@
       "Name": "BR | PREMIUM",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "brasil2.lanet.host",
+      "ServerIP": "apknet.lanet.host",
       "CheckUser": "http://209.14.68.187:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
